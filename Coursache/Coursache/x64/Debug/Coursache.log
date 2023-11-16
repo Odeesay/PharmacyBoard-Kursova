@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\Polytech\Coursache\Coursache\MyForm.h(1257,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Coursache.vcxproj -> D:\Polytech\Coursache\x64\Debug\Coursache.exe

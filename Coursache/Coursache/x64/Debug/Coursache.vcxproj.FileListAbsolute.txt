@@ -1,0 +1,4 @@
+D:\Polytech\Coursache\Coursache\x64\Debug\Coursache.vcxproj.AssemblyReference.cache
+D:\Polytech\Coursache\Coursache\x64\Debug\Coursache.vcxproj.SuggestedBindingRedirects.cache
+D:\Polytech\Coursache\Coursache\x64\Debug\Coursache.MyForm.resources
+D:\Polytech\Coursache\Coursache\x64\Debug\Coursache.vcxproj.GenerateResource.cache
